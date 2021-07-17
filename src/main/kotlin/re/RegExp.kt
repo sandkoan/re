@@ -9,6 +9,4 @@ sealed interface RegExp {
         else str.fold(
             this.shift(true, str[0])
         ) { acc, c -> acc.shift(false, c) }.isFinal
-
 }
-
