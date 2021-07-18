@@ -1,3 +1,3 @@
 # re
 
-Simple regex parser in Kotlin (Glushkov automaton)
+Simple regex parser in Kotlin
